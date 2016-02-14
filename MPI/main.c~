@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <omp.h>
+#include <time.h>
+
+#define REF_PI 3.1415926535897932384626433832795028841971693993751058209749445923078164062
+
+
+void Hello(void);
+
+int main(int argc, char **argv)
+{
+
+}
+
